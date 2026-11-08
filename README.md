@@ -65,7 +65,7 @@ Chaque détection sera documentée avec sa requête SPL, une capture de l'alerte
 
 **Splunk accessible depuis l'hôte (redirection du port 8000)**
 
-![Accueil Splunk](02-reception-9997.png.png)
+![Accueil Splunk](page-d'acceuille-splunk.png.png)
 
 **Réception des journaux activée (port 9997)**
 
